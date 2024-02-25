@@ -1,0 +1,14 @@
+name = "Skyfactory 4"
+author = "darkosto"
+version = "4.2.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "84415f09193a3703fda97a5497952d37e07cd16205819e6d399fdc79e30cac0e"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
+quilt = "0.24.0-beta.8"
